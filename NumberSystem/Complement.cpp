@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int num;
+    cout << "Enter a number "<< endl;
+    cin >> num;
+    int ans = 0;
+    int rem ;
+    int mul = 1;
+    while(num!=0){
+        rem = num % 2;
+        rem = rem ^ 1;
+        num = num /2;
+        ans = rem * mul +ans;
+        mul = mul * 2;
+    }
+    cout << ans << endl;
+    return 0;
+}
