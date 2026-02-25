@@ -33,7 +33,7 @@ Every topic is covered with clean, well-commented code so that **anyone — begi
 | # | Topic | Problems Solved | Status |
 |---|-------|:-:|--------|
 | 01 | 🔢 Number System | ✅ | Done |
-| 02 | ⚙️ Functions | 🔄 | In Progress |
+| 02 | ⚙️ Functions |  ✅ | Done |
 | 03 | 📦 Arrays | ⏳ | Coming Soon |
 | 04 | 🔗 Linked Lists | ⏳ | Coming Soon |
 | 05 | 📚 Stacks & Queues | ⏳ | Coming Soon |
