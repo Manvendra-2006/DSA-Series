@@ -62,7 +62,14 @@ DSA-Series/
 │   └── SqrtOfNo.cpp
 │
 ├── Functions/
-│   └── (In Progress... 🔄)
+│   ├── ArmstrongNo.cpp
+│   ├── Bishop.cpp
+│   ├── CubeNo.cpp
+│   ├── LowerToUpper.cpp
+│   ├── SwapNo.cpp
+│   ├── TrailingZero.cpp
+│   ├── UpperToLower.cpp
+│   └── ValidRectangle.cpp
 │
 └── README.md
 ```
