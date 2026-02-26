@@ -90,7 +90,7 @@ DSA-Series/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/DSA-Series.git
+git clone https://github.com/Manvendra-2006/DSA-Series.git
 
 # Navigate to any topic
 cd DSA-Series/NumberSystem
