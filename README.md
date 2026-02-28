@@ -33,7 +33,7 @@ Every topic is covered with clean, well-commented code so that **anyone — begi
 | # | Topic | Problems Solved | Status |
 |---|-------|:-:|--------|
 | 01 | 🔢 Number System | ✅ | Done |
-| 02 | ⚙️ Functions | 🔄 | In Progress |
+| 02 | ⚙️ Functions |  ✅ | Done |
 | 03 | 📦 Arrays | ⏳ | Coming Soon |
 | 04 | 🔗 Linked Lists | ⏳ | Coming Soon |
 | 05 | 📚 Stacks & Queues | ⏳ | Coming Soon |
@@ -62,7 +62,14 @@ DSA-Series/
 │   └── SqrtOfNo.cpp
 │
 ├── Functions/
-│   └── (In Progress... 🔄)
+│   ├── ArmstrongNo.cpp
+│   ├── Bishop.cpp
+│   ├── CubeNo.cpp
+│   ├── LowerToUpper.cpp
+│   ├── SwapNo.cpp
+│   ├── TrailingZero.cpp
+│   ├── UpperToLower.cpp
+│   └── ValidRectangle.cpp
 │
 └── README.md
 ```
@@ -83,7 +90,7 @@ DSA-Series/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/DSA-Series.git
+git clone https://github.com/Manvendra-2006/DSA-Series.git
 
 # Navigate to any topic
 cd DSA-Series/NumberSystem
