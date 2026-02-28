@@ -34,7 +34,7 @@ Every topic is covered with clean, well-commented code so that **anyone — begi
 |---|-------|:-:|--------|
 | 01 | 🔢 Number System | ✅ | Done |
 | 02 | ⚙️ Functions |  ✅ | Done |
-| 03 | 📦 Arrays | ⏳ | Coming Soon |
+| 03 | 📦 Arrays | ✅ | Done |
 | 04 | 🔗 Linked Lists | ⏳ | Coming Soon |
 | 05 | 📚 Stacks & Queues | ⏳ | Coming Soon |
 | 06 | 🌲 Trees & BST | ⏳ | Coming Soon |
