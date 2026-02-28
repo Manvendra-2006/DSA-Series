@@ -71,8 +71,17 @@ DSA-Series/
 │   ├── UpperToLower.cpp
 │   └── ValidRectangle.cpp
 │
+├── Arrays/
+│   ├── FibonacciSeries.cpp
+│   ├── MaxNo.cpp
+│   ├── MinNo.cpp
+│   ├── RotateArrayBy1.cpp
+│   ├── RverseArray.cpp
+│   ├── SearchElement.cpp
+│   ├── SecondMaxNo.cpp
+│   └── SecondMinNo.cpp
+│
 └── README.md
-```
 
 ---
 
